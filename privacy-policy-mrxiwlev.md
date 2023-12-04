@@ -39,6 +39,6 @@ We may update this Privacy Policy occasionally. We encourage you to review this 
 
 # Contact Information
 
-If you have questions or concerns about our Privacy Policy or wish to contact us regarding your data, please reach out to (mailto:mrxiwlev@gmail.com).
+If you have questions or concerns about our Privacy Policy or wish to contact us regarding your data, please reach out to [mrxiwlev@gmail.com](mailto:mrxiwlev@gmail.com).
 
 By using our services, you agree to the terms outlined in this Privacy Policy.
