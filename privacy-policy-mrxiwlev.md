@@ -8,10 +8,10 @@ We collect personal information when you voluntarily provide it to us during con
 
 # How We Use Your Information
 
-    To provide and maintain our services to you.
-    To communicate with you regarding project updates, inquiries, or support.
-    To improve our services, enhance user experience, and customize content based on your preferences.
-    For billing, invoicing, and to fulfill legal or regulatory requirements.
+    * To provide and maintain our services to you.
+    * To communicate with you regarding project updates, inquiries, or support.
+    * To improve our services, enhance user experience, and customize content based on your preferences.
+    * For billing, invoicing, and to fulfill legal or regulatory requirements.
 
 # Data Security
 
