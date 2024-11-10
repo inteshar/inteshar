@@ -1,5 +1,5 @@
 # 💫 About Me:
-A professional with 2 years of experience in Web Development, holding a degree in Computer Science and Engineering. Open to every opportunity to apply my knowledge and skills to contribute to the success of the organization and advance my career.
+This is Mohammad Inteshar Alam, and I welcome you to explore my Github profile and repositories. Feel free to contact me if required. Peace ✌️!!
 
 
 ## 🌐 Socials:
